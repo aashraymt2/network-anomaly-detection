@@ -34,7 +34,7 @@ The model is trained and validated using a modified version of the KDD benchmark
 
 Clone the repository and navigate to the project directory:
    ```bash
-   git clone [https://github.com/yourusername/network-anomaly-detection.git](https://github.com/yourusername/network-anomaly-detection.git)
+   git clone [https://github.com/aashraymt2/network-anomaly-detection.git](https://github.com/aashraymt2/network-anomaly-detection.git)
    cd network-anomaly-detection
    ```
 Establish a virtual environment:

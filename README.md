@@ -88,7 +88,7 @@ If the model successfully meets the required accuracy thresholds against the ser
 
 ## Comprehensive Documentation
 
-For full project details, please navigate to the GitBook documentation [](https://aashraymt.gitbook.io/docs/sms-spam-detector/network-anomaly-detector). The extensive documentation covers:
+For full project details, please navigate to the GitBook documentation [https://aashraymt.gitbook.io/docs/sms-spam-detector/network-anomaly-detector](https://aashraymt.gitbook.io/docs/sms-spam-detector/network-anomaly-detector). The extensive documentation covers:
 
 * Theoretical concepts of anomaly detection
 * Feature selection and mapping tables
